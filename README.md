@@ -8,7 +8,7 @@ I am passionate about leveraging technology and data analysis to create impactfu
 
 ## Education
 
-- **Master of Science (MS) Data Science** (2023-2024)
+- **Master of Science (MS) Data Science** (2023-2025)
   - Heriot-Watt University, Edinburgh, Scotland
 - **Bachelor of Technology (B.Tech) Computer Science & Engineering** (2014-2018)
   - Amity University, Lucknow, India
