@@ -1,6 +1,6 @@
 # Hi i am Akarshan Jaiswal
 
-A current Data Science Master's Student @ Heriot-Watt University and experienced Software Engineer.
+A current Data Science Master's Graduate @ Heriot-Watt University and experienced Software Engineer.
 
 ## About Me
 
